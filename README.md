@@ -13,9 +13,11 @@ javascript:q=location.href;if(document.getSelection){d=document.getSelection();}
 
 The bookmarklet uses the Mobile Quick Capture url integration (https://roamresearch.com/#/app/help/page/07-02-2020).
 
-You can highlight a line of paragraph on a webpage and click the bookmarklet. A window popup will show you the same UI as on a mobile. You can add as many highlights or bookmarks as you want. 
+No need for copy-paste.
 
-To sync and see the captured text and url in Roam, you have to reload your app. A message asking if you want to sync the captured text will show.
+1. You can highlight a line of paragraph on a webpage and click the bookmarklet. 
+2. A window popup will show you the same UI as on a mobile. You can add as many highlights or bookmarks as you want. 
+3. To sync and see the captured text and url in Roam, you have to reload your app. A message asking if you want to sync the captured text will show.
 
 This bookmarlet is adapted from the Pinboard bookmarklet. The text format is based on [+Roam](https://chrome.google.com/webstore/detail/%20roam/ekdmipoabmcjmlonhcdoijilfdoomjbm)
 
