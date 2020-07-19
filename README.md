@@ -40,4 +40,6 @@ No need for copy-paste.
 
 This bookmarlet is adapted from the Pinboard bookmarklet. The text format is based on [+Roam](https://chrome.google.com/webstore/detail/%20roam/ekdmipoabmcjmlonhcdoijilfdoomjbm)
 
+A better version of this page https://adolforismos.github.io/roam-quick-capture-bookmarklet/
+
 By: [adolforismos](https://medium.com/@adolforismos)
