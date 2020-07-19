@@ -30,9 +30,9 @@ javascript:q=location.href;if(document.getSelection){d=document.getSelection();}
 Or just to open Quick Capture without text.
 
 ```
-javascript:open('https://roamresearch.com/?text=%22%22&#quick-capture','Roam','toolbar=no,width=700,height=350');
+javascript:open('https://roamresearch.com/?text= #quick-capture','Roam','toolbar=no,width=700,height=350');
 ```
-<a href="open%28%27https%3A%2F%2Froamresearch.com%2F%3Ftext%3D%2522%2522%26%23quick-capture%27%2C%27Roam%27%2C%27toolbar%3Dno%2Cwidth%3D700%2Cheight%3D350%27%29%3B">Note to Roam</a>
+<a href="open%28%27https%3A%2F%2Froamresearch.com%2F%3Ftext%3D+%23quick-capture%27%2C%27Roam%27%2C%27toolbar%3Dno%2Cwidth%3D700%2Cheight%3D350%27%29%3B">Note to Roam</a>
 
 
 ## How to use
